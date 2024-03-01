@@ -1,0 +1,23 @@
+{
+  "services": {
+    "ExampleService": {
+      "state": "StateC",
+      "metadata": {
+        "jira": "https://jira.com/IC-1236",
+        "name": "example_service",
+        "description": "Implemented the StateC requests handling",
+        "tags": ["example", "service"]
+      }
+    }
+  },
+  "business": {
+    "ExampleBusiness": {
+      "state": "StateA",
+      "metadata": {
+        "name": "example_business",
+        "description": "Implemented the StateA requests handling",
+        "tags": ["example", "business"]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@rafaelmedrib/state",
+  "version": "0.0.1",
+  "description": "",
+  "main": "state.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node state.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "change-case-all": "^2.1.0"
+  }
+}
