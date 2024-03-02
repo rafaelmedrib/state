@@ -15,5 +15,4 @@ The application will read the `feature_toggles.json` and populate the environmen
 ## Next Steps
 - Use an IoC tool to inject the state into the services and remove the BaseService class.
 - Create an scaffolding library to manage the feature_toggles.json file and the service boilerplate code.
-- Create a git hook to test if the feature toggles are in sync with the code and prevent the commit if they are not.
-- [ ] Add tests
+- Create a git hook to test if the feature toggles are in sync with the code and prevent the commit if they are not. 
